@@ -1,21 +1,20 @@
-- 👋 Hi, I’m @AkayDeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <h1 align="center">
-Null3000
+Akay
 
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
-
-
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Akay.;I'm+a+student+in+Laval.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 ## My Tech Stack and Tools
+
+## Presentation
+
+- 👋 Hi, I’m @AkayDeveloper
+- 💻 Im currently working on, One Piece Blue Sea project ...
+- 🌱 I’m currently learning Javascript, PHP,
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me enzo.roussel.professionnel@gmail.com
 
 ### Programming Languages
 
