@@ -33,7 +33,12 @@ I'm Akay a beginner developer, working on a One Piece Blue Sea project, a One Pi
 ### Frameworks and Libraries
 
 <p>
+	
+![aframe-logo_48x48](https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png)
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
+![1696888_48x48](https://user-images.githubusercontent.com/76852813/172723432-50ba3455-48c4-4afd-8326-1ddf54c39833.png)
+![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
+
 ### Software
 
 <p>
@@ -69,9 +74,9 @@ I'm Akay a beginner developer, working on a One Piece Blue Sea project, a One Pi
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=akaydeveloper&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaydeveloper&langs_count=8&theme=algolia)
 	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+![](https://komarev.com/ghpvc/?username=akaydeveloper&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
