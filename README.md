@@ -33,7 +33,8 @@ I'm Akay a beginner developer, working on a One Piece Blue Sea project, a One Pi
 ### Frameworks and Libraries
 
 <p>
-	
+
+<img width ='48px' src ='https://img.icons8.com/color/48/000000/cinema-4d.png'> </a>
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
 
 ### Software
@@ -75,7 +76,6 @@ I'm Akay a beginner developer, working on a One Piece Blue Sea project, a One Pi
 	
 ![](https://komarev.com/ghpvc/?username=akaydeveloper&style=flat-square)
 
-###### Some icons courtesy of [icons8](https://icons8.com/)
 
 ------
 
