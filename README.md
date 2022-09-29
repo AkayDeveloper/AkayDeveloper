@@ -12,8 +12,7 @@ I'm Akay a beginner developer, working on a One Piece Blue Sea project, a One Pi
 	  
 - 👋 Hi, I’m @AkayDeveloper
 - 💻 Im currently working on, One Piece Blue Sea project ...
-- 🌱 I’m currently learning Javascript, PHP,
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript, PHP ...
 - 📫 How to reach me enzo.roussel.professionnel@gmail.com
 
 ### Programming Languages
